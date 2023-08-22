@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "selenium-webdriver": "^4.11.1"
+  },
+  "name": "OSecScrapMaker",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/CodeBlackwell/OSecScrapMaker.git",
+  "author": "LeChristopher Jon Blackwell <codeblackwell@gmail.com>",
+  "license": "MIT"
+}
